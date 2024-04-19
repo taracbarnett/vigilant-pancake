@@ -1,0 +1,19 @@
+{
+    "displayName": "Tara's Test Query",
+    "description": "Description of Tara's Test Query",
+    "instructions": "Choose a start and end date for the user-creation period.",
+    "parameters": [
+        {
+            "name": "start_date",
+            "displayName": "Start date",
+            "type": "date",
+            "required": false
+        },
+        {
+            "name": "end_date",
+            "displayName": "End date",
+            "type": "date",
+            "required": false
+        }
+    ]
+}
